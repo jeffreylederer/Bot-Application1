@@ -1,0 +1,15 @@
+{
+    "name": "Bot_Application1",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "848d1d2e-2065-44d9-addc-c4dde8e88315",
+            "id": "87105ea0-903a-11e8-9b27-edc8d5b17f06",
+            "type": "endpoint",
+            "appPassword": "zrezvpN35@oQOCECU877#?#",
+            "endpoint": "https://botapplication120180725022956.azurewebsites.net",
+            "name": "https://botapplication120180725022956.azurewebsites.net"
+        }
+    ]
+}
