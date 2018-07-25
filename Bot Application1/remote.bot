@@ -1,0 +1,15 @@
+{
+    "name": "remote",
+    "description": "",
+    "secretKey": "",
+    "services": [
+      {
+        "appId": "BotApplication120180725022956",
+        "id": "57625950-9040-11e8-b8e0-b7d8a4b2fc47",
+        "type": "endpoint",
+        "appPassword": "zrezvpN35@oQOCECU877#?#",
+        "endpoint": "https://botapplication120180725022956.azurewebsites.net/api/messages",
+        "name": "https://botapplication120180725022956.azurewebsites.net/api/messages"
+      }
+    ]
+}
