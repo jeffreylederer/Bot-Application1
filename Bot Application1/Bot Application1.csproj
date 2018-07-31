@@ -164,13 +164,14 @@
       <SubType>Designer</SubType>
     </Content>
     <Content Include="local.bot" />
-    <None Include="Properties\PublishProfiles\aboutmebotjeff - Web Deploy.pubxml" />
-    <None Include="Properties\PublishProfiles\BotApplication120180725022956 - Web Deploy.pubxml" />
+    <Content Include="remote - Copy.bot" />
+    <None Include="Properties\PublishProfiles\aboutmejeff - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
+      <SubType>Designer</SubType>
     </None>
   </ItemGroup>
   <PropertyGroup>

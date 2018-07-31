@@ -1,0 +1,15 @@
+{
+    "name": "mybot",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "id": "9c0add60-928a-11e8-a177-0b9379159ed0",
+            "name": "https://aboutmejeff.azurewebsites.net/api/messages",
+            "type": "endpoint",
+            "appId": "57625950-9040-11e8-b8e0-b7d8a4b2fc47",
+            "appPassword": "zrezvpN35@oQOCECU877#?#",
+            "endpoint": "https://aboutmejeff.azurewebsites.net/api/messages"
+        }
+    ]
+}
