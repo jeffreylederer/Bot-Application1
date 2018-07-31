@@ -9,11 +9,12 @@
     using Models;
     using Newtonsoft.Json;
 
+    /* https://github.com/Microsoft/BotBuilder-Samples/tree/master/CSharp/core-DirectLine */
     public class Program
     {
-        private static string directLineSecret = ConfigurationManager.AppSettings["DirectLineSecret"];
-        private static string botId = ConfigurationManager.AppSettings["BotId"];
-        private static string fromUser = "DirectLineSampleClientUser";
+        private static readonly string directLineSecret = ConfigurationManager.AppSettings["DirectLineSecret"];
+        private static readonly string botId = ConfigurationManager.AppSettings["BotId"];
+        private static readonly string fromUser = "DirectLineSampleClientUser";
 
         public static void Main(string[] args)
         {
@@ -116,3 +117,4 @@
         }
     }
 }
+ 
